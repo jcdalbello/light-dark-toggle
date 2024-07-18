@@ -1,2 +1,2 @@
-# light-dark-mode
-Batch script to toggle light and dark mode on Windows
+# Light-dark Toggle
+Batch script to toggle light and dark mode on Windows.
